@@ -1,9 +1,9 @@
-site_url: https://safe2008.github.io/my-material
+site_url: https://safe2008.github.io/blog
 site_author: Safe2008
 site_description: It's Safe2008. A collection of snippets, examples and solutions.
 site_name: Blog
 
-repo_url: https://github.com/safe2008/my-material
+repo_url: https://github.com/safe2008/blog
 
 theme:
   name: material
