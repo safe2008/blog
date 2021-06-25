@@ -1,9 +1,9 @@
-site_url: https://safe2008.github.io/toolkit
-site_author: Boriphuth Safe
-site_description: It's Boriphuth Safe. A collection of snippets, examples and solutions.
-site_name: safe2008 Material
+site_url: https://safe2008.github.io/my-material
+site_author: Safe2008
+site_description: It's Safe2008. A collection of snippets, examples and solutions.
+site_name: Blog
 
-repo_url: https://github.com/safe2008/toolkit
+repo_url: https://github.com/safe2008/my-material
 
 theme:
   name: material
@@ -35,7 +35,7 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/safe2008
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/safe2008
+      link: https://www.linkedin.com/in/boriphuth-saensukphattraka
   disqus: safe2008
 
 google_analytics:
