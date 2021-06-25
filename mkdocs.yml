@@ -1,0 +1,49 @@
+site_url: https://safe2008.github.io/toolkit
+site_author: Boriphuth Safe
+site_description: It's Boriphuth Safe. A collection of snippets, examples and solutions.
+site_name: safe2008 Material
+
+repo_url: https://github.com/safe2008/toolkit
+
+theme:
+  name: material
+  icon:
+    logo: fontawesome/solid/toolbox
+  language: 'en'
+
+markdown_extensions:
+  - codehilite
+  - pymdownx.superfences
+  - pymdownx.magiclink
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.highlight
+  - pymdownx.mark
+  - pymdownx.tabbed
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: |
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+  <br> Copyright © 2021- Boriphuth Safe
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/safe2008
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/safe2008
+  disqus: safe2008
+
+google_analytics:
+  - 'UA-30929083-1'
+  - 'auto'
+
+plugins:
+  - search
+  - git-revision-date-localized
+  - minify:
+      minify_html: true
