@@ -29,14 +29,14 @@ markdown_extensions:
 
 copyright: |
   <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
-  <br> Copyright © 2021- Boriphuth Safe
+  <br> Copyright © 2021- Safe2008
 extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/safe2008
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/boriphuth-saensukphattraka
-  disqus: safe2008
+  disqus: https-safe2008-github-io-my-material
 
 google_analytics:
   - 'UA-30929083-1'
