@@ -1,9 +1,9 @@
 ---
-title: 👋 Welcome
+title: 👋 Hello World
 description: Hello world. It's Safe2008, yo!
 ---
 
-# Welcome
+# Hello World
 
 ALGOL
 ```bash
