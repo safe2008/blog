@@ -181,4 +181,4 @@ jobs:
 
 Run:
 
-![run-secret](run-secret.png)
+![run-secret](images/run-secret.png)
